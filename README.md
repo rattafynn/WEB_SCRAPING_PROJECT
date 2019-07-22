@@ -11,8 +11,13 @@ https://www.tripadvisor.com/Hotel_Review-g45963-d91891-Reviews-MGM_Grand_Hotel_a
 The Google Chrome Driver and the XPATH suite in Selenium were employed
 
 The review parameters extracted were:
+
 (a) title of the review
+
 (b) Comment posted by reviewer
+
 (c) username of the reviewer
+
 (d) date reviewer made review
+
 (e) rating on a scale of 1-5.
