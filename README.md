@@ -1,4 +1,5 @@
 # WEB_SCRAPING_PROJECT
+
 Data science project on web scraping (python)
 Raymond Atta-Fynn
 New York City Data Science Academy
