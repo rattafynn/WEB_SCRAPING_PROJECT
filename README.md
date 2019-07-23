@@ -18,6 +18,6 @@ The review parameters extracted were:
 
 (c) username of the reviewer
 
-(d) date reviewer made review
+(d) date of stay
 
 (e) rating on a scale of 1-5.
