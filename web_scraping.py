@@ -9,7 +9,7 @@ The review parameters extracted were:
 (a) title of the review
 (b) Comment posted by reviewer
 (c) username of the reviewer
-(d) date reviewer made review
+(d) date of stay
 (e) rating on a scale of 1-5.
 
 """
